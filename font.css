@@ -1,0 +1,79 @@
+/* Muller Thin */
+@font-face {
+  font-family: 'Muller';
+  src: url('../fonts/fonnts.com-muller-thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* Muller UltraLight */
+@font-face {
+  font-family: 'Muller';
+  src: url('../fonts/fonnts.com-muller-ultralight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+/* Muller Light */
+@font-face {
+  font-family: 'Muller';
+  src: url('../fonts/fonnts.com-muller-light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Muller Regular */
+@font-face {
+  font-family: 'Muller';
+  src: url('../fonts/fonnts.com-muller-regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Muller Medium */
+@font-face {
+  font-family: 'Muller';
+  src: url('../fonts/fonnts.com-muller-medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Muller Bold */
+@font-face {
+  font-family: 'Muller';
+  src: url('../fonts/fonnts.com-muller-bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Muller Fat */
+@font-face {
+  font-family: 'Muller';
+  src: url('./fonts/fonnts.com-muller-fat.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Muller Heavy */
+@font-face {
+  font-family: 'Muller';
+  src: url('./fonts/fonnts.com-muller-heavy.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Muller Black */
+@font-face {
+  font-family: 'Muller';
+  src: url('./fonts/fonnts.com-muller-black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Muller UltraBlack */
+@font-face {
+  font-family: 'Muller';
+  src: url('./fonts/fonnts.com-muller-ultrablack.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
